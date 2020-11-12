@@ -1,6 +1,6 @@
-![Docker Pulls "cybertec/pgwatch2"](https://img.shields.io/docker/pulls/cybertec/pgwatch2) cybertec/pgwatch2  
-![Docker Pulls "cybertec/pgwatch2-postgres"](https://img.shields.io/docker/pulls/cybertec/pgwatch2-postgres) cybertec/pgwatch2-postgres  
-![Docker Pulls "cybertec/pgwatch2-nonroot"](https://img.shields.io/docker/pulls/cybertec/pgwatch2-nonroot) cybertec/pgwatch2-nonroot
+![Docker Pulls "cybertec/pgwatch2"](https://img.shields.io/docker/pulls/cybertec/pgwatch2) *cybertec/pgwatch2*  
+![Docker Pulls "cybertec/pgwatch2-postgres"](https://img.shields.io/docker/pulls/cybertec/pgwatch2-postgres) *cybertec/pgwatch2-postgres*  
+![Docker Pulls "cybertec/pgwatch2-nonroot"](https://img.shields.io/docker/pulls/cybertec/pgwatch2-nonroot) *cybertec/pgwatch2-nonroot*
 
 # pgwatch2
 

@@ -1,3 +1,6 @@
+![Docker Pulls "cybertec/pgwatch2"](https://img.shields.io/docker/pulls/cybertec/pgwatch2)
+![Docker Pulls "cybertec/pgwatch2-postgres"](https://img.shields.io/docker/pulls/cybertec/pgwatch2-postgres)
+
 # pgwatch2
 
 Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution

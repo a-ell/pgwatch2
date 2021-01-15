@@ -4,7 +4,7 @@ metadata:
   name: pgwatch2-template 
 objects:
 - kind: "DeploymentConfig"
-  apiVersion: v1
+  apiVersion: apps.openshift.io/v1
   metadata:
     name: "pgwatch2"
   spec:
